@@ -1,0 +1,240 @@
+[2020-06-01 17:42:50] ShadowsocksR started on port 1080
+[2020-06-01 17:42:59] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:42:59] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:00] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:43:00] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:43:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:43:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:43:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:02] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:43:02] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:43:02] [Error] connect to update server error
+[2020-06-01 17:46:45] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 17:46:45] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 17:46:45] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 17:46:45] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 17:47:59] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:47:59] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:47:59] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:48:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:48:00] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:48:00] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:01] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:48:01] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-01 17:48:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:01] [Info] Connect raw.githubusercontent.com:443
+[2020-06-01 17:48:02] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-01 17:48:02] [Error] connect to update server error
+[2020-06-01 17:54:56] [Info] Direct connect ctldl.windowsupdate.com:80
+[2020-06-01 17:54:56] [Info] Direct connect ctldl.windowsupdate.com:80
+[2020-06-01 17:54:56] [Info] Direct connect ctldl.windowsupdate.com:80
+[2020-06-01 17:56:22] [Info] Direct connect client.show.qq.com:80
+[2020-06-01 17:56:22] [Info] Direct connect client.show.qq.com:443
+[2020-06-01 18:01:45] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:46] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:46] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:46] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:46] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:46] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:47] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:47] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:47] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:47] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:47] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:01:47] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:03:03] [Info] Direct connect client.show.qq.com:80
+[2020-06-01 18:03:03] [Info] Direct connect client.show.qq.com:443
+[2020-06-01 18:03:31] [Info] Direct connect clientservices.googleapis.com:443
+[2020-06-01 18:07:33] [Info] Direct connect safebrowsing.googleapis.com:443
+[2020-06-01 18:07:41] [Info] Connect login.live.com:443
+[2020-06-01 18:07:41] [Info] Connect login.live.com:443
+[2020-06-01 18:07:41] [Info] Connect login.live.com:443
+[2020-06-01 18:07:41] [Info] Disconnect login.live.com:443
+[2020-06-01 18:11:32] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:33] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:33] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:33] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:36] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:36] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:36] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:37] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:47] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:47] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:47] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:11:47] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-01 18:12:09] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:12:09] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:12:10] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:12:10] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-01 18:12:24] [Info] Direct connect service.weather.msn.cn:443
+[2020-06-01 18:12:24] [Info] Direct connect tile-service.weather.msn.cn:443
+[2020-06-01 18:12:24] [Info] Direct connect tile-service.weather.msn.cn:443
+[2020-06-01 18:13:35] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:13:35] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:13:35] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:13:35] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-01 18:13:45] [Info] Direct connect s2.mini.wpscdn.cn:443
+[2020-06-01 18:16:47] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:48] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:48] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:48] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:48] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:48] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:48] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:49] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:49] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:49] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:49] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:16:49] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:17:50] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:17:51] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:17:51] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-01 18:17:51] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-01 18:17:51] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:51] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:51] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:52] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:55] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:55] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:55] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:17:55] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:04] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:05] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:05] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:05] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:32] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:32] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:32] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:18:33] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-06-01 18:19:52] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:19:52] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:19:52] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:19:52] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-06-01 18:24:20] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:24:20] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:24:21] [Info] Connect v10.events.data.microsoft.com:443
+[2020-06-01 18:24:21] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-06-01 18:31:49] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:49] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:50] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:51] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:51] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-01 18:31:51] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-01 18:33:31] [Info] Direct connect clientservices.googleapis.com:443
+[2020-06-01 18:34:56] [Info] Direct connect report.url.cn:443
+[2020-06-01 18:35:46] [Info] Direct connect s3.mini.wpscdn.cn:443
+[2020-06-01 18:35:46] [Info] Direct connect api.mini.wps.cn:443
+[2020-06-01 18:37:25] [Info] Direct connect client.show.qq.com:80
+[2020-06-01 18:37:25] [Info] Direct connect client.show.qq.com:443
+[2020-06-01 18:37:48] [Info] Direct connect safebrowsing.googleapis.com:443
+[2020-06-04 00:15:18] ShadowsocksR started on port 1080
+[2020-06-04 00:15:27] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:15:27] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:28] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:28] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:28] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:15:28] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:15:28] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:28] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:28] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:15:29] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:15:29] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:29] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:30] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:15:30] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:15:30] [Error] connect to update server error
+[2020-06-04 00:17:12] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:12] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:12] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:12] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:12] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:13] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:13] [Info] Direct connect clientservices.googleapis.com:443
+[2020-06-04 00:17:13] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:13] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:13] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:13] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:13] [Info] Connect settings-win.data.microsoft.com:443
+[2020-06-04 00:17:14] [Info] Disconnect settings-win.data.microsoft.com:443
+[2020-06-04 00:18:12] [Info] Direct connect client.show.qq.com:80
+[2020-06-04 00:18:12] [Info] Direct connect client.show.qq.com:443
+[2020-06-04 00:18:21] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:21] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:21] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:21] [Info] Disconnect duruo.tk:443
+[2020-06-04 00:18:21] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:22] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:22] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:22] [Info] Disconnect duruo.tk:443
+[2020-06-04 00:18:22] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:22] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:22] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:23] [Info] Disconnect duruo.tk:443
+[2020-06-04 00:18:23] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:23] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:23] [Info] Connect duruo.tk:443
+[2020-06-04 00:18:23] [Info] Disconnect duruo.tk:443
+[2020-06-04 00:18:36] ShadowsocksR started on port 1080
+[2020-06-04 00:18:45] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:18:45] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:46] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:46] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:46] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:18:46] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:18:46] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:46] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:46] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:18:47] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:18:47] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:47] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:48] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:18:48] [Info] Disconnect raw.githubusercontent.com:443
+[2020-06-04 00:18:48] [Error] connect to update server error
+[2020-06-04 00:19:12] [Info] Connect v20.events.data.microsoft.com:443
+[2020-06-04 00:19:15] [Info] Disconnect v20.events.data.microsoft.com:443
+[2020-06-04 00:19:23] [Info] Direct connect client.show.qq.com:80
+[2020-06-04 00:19:23] [Info] Direct connect client.show.qq.com:443
+[2020-06-04 00:19:43] [Info] Direct connect client.show.qq.com:80
+[2020-06-04 00:19:43] [Info] Direct connect client.show.qq.com:443
+[2020-06-04 00:21:02] [Info] Direct connect safebrowsing.googleapis.com:443
+[2020-06-04 00:23:45] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-06-04 00:23:45] [Info] Connect raw.githubusercontent.com:443
+[2020-06-04 00:25:28] [Info] Disconnect raw.githubusercontent.com:443
